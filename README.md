@@ -33,10 +33,10 @@ You can connect with me via:
 - 🔗 [LinkedIn](www.linkedin.com/in/adarsh-amit-1001code)
 
 ### 📊 My GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarsh100111&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarsh1001111&show_icons=true&theme=radical)
 
 ### 🏆 My Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh100111&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh1001111&layout=compact)
 
 ### 🎉 Fun Facts About Me
 - 🎸 I play the guitar
