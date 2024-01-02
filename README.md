@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm excited to share my journey in the world of coding and development. 
 
 ### About Me ℹ️
-I'm passionate about 🌐 [web development], 🤖 [machine learning](link), 🧑🏻‍💻 [competitive programming]  and I love to 🛠️ [build creative projects] and 🧩 [solve complex problems].
+I'm passionate about 🌐 [web development], 🤖 [machine learning], 🧑🏻‍💻 [competitive programming]  and I love to 🛠️ [build creative projects] and 🧩 [solve complex problems].
 
 ### 🚀 What I'm Working On
 Right now, I'm focused on:
