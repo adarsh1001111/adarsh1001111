@@ -30,7 +30,7 @@ Feel free to reach out to me for:
 ### 📫 How to Reach Me
 You can connect with me via:
 <p>
-  <a href="https://www.linkedin.com/in/adarsh-amit-1001code[removed]" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/adarsh-amit-1001code" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/[removed]" rel="nofollow noreferrer">
@@ -38,6 +38,7 @@ You can connect with me via:
   </a>
 </p>
 - 📧 [Email](mailto:adarsh.amit2003@gmail.com)
+- 
 
 
 ### 📊 My GitHub Stats
