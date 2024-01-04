@@ -8,8 +8,8 @@ I'm passionate about 🌐 [web development], 🤖 [machine learning], 🧑🏻�
 ### 🚀 What I'm Working On
 Right now, I'm focused on:
 
-- [![SIH Project(Tourism Domain)] A Team Project for the Smart India Hackathon]
-- [![Rocket And Meteors] My own personalized project that m developing since 2nd sem of my college]
+- [[SIH Project(Tourism Domain)] A Team Project for the Smart India Hackathon]
+- [[Rocket And Meteors] My own personalized project that I am developing since 2nd sem of my college]
 - more projects coming further...
 
 ### 🌱 What I'm Learning
