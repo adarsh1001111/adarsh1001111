@@ -15,10 +15,11 @@ Right now, I'm focused on:
 ### 🌱 What I'm Learning
 I'm currently learning:
 
-- 🚀 [C++/DSA]: Advanced
+- 🚀 [C++/DSA]: Advanced+Algorithm
 - 🌐 [Web Dev]: HTML(Advanced),CSS(Advanced),JS(Basic),Bootstrap(Basic),React(Basic)
-- 🐍[Python]: Basic
+- 🐍[Python]: Intermediate 
 - 🤖[Machine Learning]: Basic
+- 📊[Data Science]:Intermediate
 
 ### 🤝 Let's Connect!
 Feel free to reach out to me for:
