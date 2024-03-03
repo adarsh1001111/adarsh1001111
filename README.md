@@ -46,14 +46,16 @@ Feel free to reach out to me for:
 You can connect with me via:
 <p>
   <a href="https://www.linkedin.com/in/adarsh-amit-1001code" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin" width="100" height="100"> LinkedIn
   </a> &nbsp; 
   <a href="https://github.com/adarsh1001111" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="github" width="100" height="100"> Github
+  </a>
+   <a href="mailto:adarsh.amit2003@gmail.com" rel="nofollow noreferrer">
+    <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Gmail" width="180" height="100"> Gmail
   </a>
 </p>
 
-- 📧 [Email](mailto:adarsh.amit2003@gmail.com)
   
 
 
