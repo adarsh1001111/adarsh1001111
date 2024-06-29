@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm excited to share my journey in the world of co
 
 ### About Me
 
-I am a dynamic second-year student pursuing a Bachelor's degree in Computer Science and Engineering at **JIIT Noida**. With a passion for technology, I have honed my skills in various programming languages including **Python**, **C++**, and **C**, as well as web development languages. My journey into the realm of **data science**, coupled with extensive experience in **web scraping**, has further broadened my technical expertise. Beyond academics, I thrive on the challenges of **competitive programming**, boasting strong profiles on platforms like **LeetCode**, **HackerRank**, and **CodeChef**. I am dedicated to continuous learning and growth in the ever-evolving landscape of technology, poised to make meaningful contributions in the field of **computer science and engineering**. 
+I am a dynamic 3rd year student pursuing a Bachelor's degree in Computer Science and Engineering at **JIIT Noida**. With a passion for technology, I have honed my skills in various programming languages including **Python**, **C++**, and **C**, as well as web development languages. My journey into the realm of **data science**, coupled with extensive experience in **web scraping**, has further broadened my technical expertise. Beyond academics, I thrive on the challenges of **competitive programming**, boasting strong profiles on platforms like **LeetCode**, **HackerRank**, and **CodeChef**. I am dedicated to continuous learning and growth in the ever-evolving landscape of technology, poised to make meaningful contributions in the field of **computer science and engineering**. 
 
 <p>
   <a href="https://leetcode.com/adarsh1001111/" rel="nofollow noreferrer">
