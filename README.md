@@ -16,7 +16,7 @@ I am a dynamic 3rd year student pursuing a Bachelor's degree in Computer Science
   <a href="https://www.hackerrank.com/profile/adarsh_amit1001" rel="nofollow noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank" width="100" height="100">HackerRank
   </a> &nbsp;
-  <a href="https://www.codechef.com/users/adarshamit1001" rel="nofollow noreferrer">
+  <a href="https://www.codechef.com/users/adarsh_1001111" rel="nofollow noreferrer">
     <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="CodeChef" width="200" height="100">CodeChef
   </a>
 </p>
