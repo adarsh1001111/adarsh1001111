@@ -34,7 +34,7 @@ I am a dynamic Final year student pursuing a Bachelor's degree in Computer Scien
 
 ### 🚀 What I'm Working On
 Right now, I'm focused on:
-
+- [[Multimodal Emotion-Driven Music Playlist Generator Using Wearables] A Team Project which facilitates the automatic Music Recommendation Based On the Current Mood of the User]
 - [[SIH Project(Tourism Domain)] A Team Project for the Smart India Hackathon]
 - [[Rocket And Meteors] My own personalized project that I am developing since 2nd sem of my college]
 - more projects coming further...
